@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gionas
+- 👋 Hi, I’m Sérgio
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Html, CSS, JS.
 - 💞️ I’m looking to collaborate on small and simple challenges.
